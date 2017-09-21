@@ -113,7 +113,7 @@ wangyi_ygt: false
 # gitment: false
 gitment:
   owner: zuohuadong
-  repo: https://github.com/zuohuadong/notadd-blog.git
+  repo: notadd-blog
   client_id: 181e14119a9b9907892a
   client_secret: 80d203c9e2b304c51b7c4b857f75cb903b3d9eb1
 
