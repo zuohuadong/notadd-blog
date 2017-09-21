@@ -25,8 +25,8 @@ menu:
     url: http://www.weibo.com/ibenchu
     target: _blank
   link:
-    text: 测试
-    url: /custom
+    text: 文档
+    url: https://docs.notad.com
 
 # 你的头像url
 avatar: https://docs.notadd.com/images/logo.png
