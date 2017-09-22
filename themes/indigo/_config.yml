@@ -13,10 +13,10 @@ menu:
     url: /
   archives:
     url: /archives
-  tags:
-    url: /tags
+ # tags:
+ #   url: /tags
   th-list:
-    text: Categories
+    text: 分类
     url: /categories
   github:
     url: https://github.com/notadd/notadd
