@@ -18,9 +18,9 @@ menu:
   th-list:
     text: 分类
     url: /categories
-  link:
+  donate:
     text: 捐赠
-    url:https://git.oschina.net/notadd/notadd?donate=true
+    url: https://git.oschina.net/notadd/notadd?donate=true
     target: _blank
   github:
     url: https://github.com/notadd/notadd
