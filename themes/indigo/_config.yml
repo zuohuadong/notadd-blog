@@ -18,6 +18,10 @@ menu:
   th-list:
     text: 分类
     url: /categories
+  donate:
+    text: 捐赠
+    url:https://git.oschina.net/notadd/notadd?donate=true
+    target: _blank
   github:
     url: https://github.com/notadd/notadd
     target: _blank
@@ -27,6 +31,7 @@ menu:
   link:
     text: 文档
     url: https://docs.notad.com
+    target: _blank
 
 # 你的头像url
 avatar: https://docs.notadd.com/images/logo.png
