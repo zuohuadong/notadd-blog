@@ -12,12 +12,12 @@ menu:
     text: 主页
     url: /
   archives:
-    url: /archives
+    url: /archives/
  # tags:
  #   url: /tags
   th-list:
     text: 分类
-    url: /categories
+    url: /categories/
   heart:
     text: 捐赠
     url: https://git.oschina.net/notadd/notadd?donate=true
@@ -34,7 +34,7 @@ menu:
     target: _blank
 
 # 你的头像url
-avatar: https://docs.notadd.com/images/logo.png
+avatar: https://ww2.sinaimg.cn/large/0060lm7Tly1flwround5lj30dw0dwq31.jpg
 # avatar link
 avatar_link: /
 # 头像背景图
