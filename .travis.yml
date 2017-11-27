@@ -19,5 +19,6 @@ install:
     - hexo generate
     
 after_success:
+    - cd ./public
     - upx login blog-notadd "$BLOG" "$UPYUN"
-    - upx put ./public   /
+    - upx put ./   /
