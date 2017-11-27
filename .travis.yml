@@ -13,6 +13,7 @@ before_install:
     - sudo curl  -L http://collection.b0.upaiyun.com/softwares/upx/upx-linux-amd64-v0.2.3 -o /usr/bin/upx
     - sudo chmod +x /usr/bin/upx
     - npm install hexo-cli -g
+    - npm install
         
 install:
     - hexo generate
