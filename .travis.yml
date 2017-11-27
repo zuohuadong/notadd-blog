@@ -1,7 +1,7 @@
 
 sudo: required
 
-language: node
+language: node_js
 
 git:
     submodules: true
